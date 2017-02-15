@@ -30,6 +30,8 @@
 
   沒有回傳 GroupID
 
+  人員資料沒有UserID、UserName
+
 * 查詢全部人員、查詢人員
 
   http://114.32.225.116/GetAllUser.php
