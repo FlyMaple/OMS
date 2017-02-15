@@ -11,6 +11,7 @@
   * 刪除人員，呼叫 DeleteGroupMember.php
   * 新增權限，呼叫 AddGroupAuth.php
   * 刪除權限，呼叫 DeleteGroupAuth.php
+  
 [使用者管理]
 
 * 可以成功開啟，呼叫 GetAllGroup.php、GetAllUser.php
